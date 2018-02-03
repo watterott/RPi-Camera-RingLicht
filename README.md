@@ -10,7 +10,3 @@ Camera Light for Raspberry Pi camera v1 and v2.
 ## Shop
 * [RPi-Camera-RingLicht (JST)](http://www.watterott.com/en/RPi-Ringlight)
 * [All FabScan Pi Products](http://www.watterott.com/en/Kits/FabScan)
-
-
-## Hardware
-* [Schematics + Layout](https://github.com/watterott/RPi-Camera-RingLicht/tree/master/hardware)
